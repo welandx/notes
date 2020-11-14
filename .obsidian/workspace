@@ -14,13 +14,13 @@
         }
       },
       {
-        "id": "d13475c95734c15c",
+        "id": "8efd1ce7662f2d5e",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "稳恒电流的磁场.md",
+            "file": "静电场.md",
             "mode": "preview"
           }
         }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "稳恒电流的磁场.md"
+                "file": "静电场.md"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "稳恒电流的磁场.md"
+                "file": "静电场.md"
               }
             }
           }
@@ -98,8 +98,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "稳恒电流的磁场.md",
     "静电场.md",
+    "稳恒电流的磁场.md",
+    "20201114150856.md",
     "静电场中的导体和电介质.md",
     "电位移矢量、有电介质时高斯定理.md",
     "磁介质.md",
