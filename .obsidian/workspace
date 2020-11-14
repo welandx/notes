@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "fa3685a29ca20bc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb8817b7f69ca85a",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "d13475c95734c15c",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "稳恒电流的磁场.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6742ee6bc38e24b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "42937b88ea4da3e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97f59318ea2e4707",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d44c687a105d4b39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "99eba51e5744c939",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f6accaef1c541d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f1cd8dd75432f88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "稳恒电流的磁场.md"
+              }
+            }
+          },
+          {
+            "id": "f3df51b1116c66ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "稳恒电流的磁场.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "稳恒电流的磁场.md",
+    "静电场.md",
+    "静电场中的导体和电介质.md",
+    "电位移矢量、有电介质时高斯定理.md",
+    "磁介质.md",
+    "集成触发器.md",
+    "电磁场.md",
+    "时域分析—微分方程.md",
+    "频域分析—傅立叶变换.md"
+  ]
+}
